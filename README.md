@@ -9,3 +9,11 @@ The DSS DL course
 5. add your code change and type `git add .` (. means add all files)
 6. type `git commit -m "your commit message"`
 7. type `git push`
+
+## The GUI way
+1. download and install the Source tree software
+2. add the repository *https://github.com/lordmana/deep_learning.git*
+3. use the GUI to commit and push
+
+## The plugin way
+1. Install VS code and GitHub plugin
